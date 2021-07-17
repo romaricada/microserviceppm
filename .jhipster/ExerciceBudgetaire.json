@@ -1,0 +1,38 @@
+{
+    "name": "ExerciceBudgetaire",
+    "fields": [
+        {
+            "fieldName": "annee",
+            "fieldType": "Integer",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "deleted",
+            "fieldType": "Boolean"
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipType": "one-to-many",
+            "otherEntityName": "besoin",
+            "otherEntityRelationshipName": "exercice",
+            "relationshipName": "besoins"
+        }
+    ],
+    "changelogDate": "20200424173100",
+    "entityTableName": "exercice_budgetaire",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "embedded": false,
+    "clientRootFolder": "",
+    "applications": [
+        "microserviceppm"
+    ],
+    "skipClient": true
+}

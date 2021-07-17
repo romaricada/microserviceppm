@@ -1,0 +1,525 @@
+<<<<<<< HEAD
+id;libelle;Ordre;deleted;mode_passation_id;created_by;created_date;last_modified_by;last_modified_date
+1;Initiation et élaboration du DAOO ou du DAOA;1;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+2;Transmission du DAOO ou du DADA et de l'autorisation à la DG-CMEF;2;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+3;Traitement et publication du DAOO ou du DAOA par DC-CMEF;3;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+4;Réception des offres par la PRIV;4;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+5;Convocation des membres de la CAM;5;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+6;Commission de sélection;6;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+7;Désignation des membres de la sous- commission technique (SCT) sur initiative de la PRM;7;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+8;Ouverture des offres et mise en place de la SCT;8;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+9;Ouverture des offres et mise en place de la SCT;9;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+10;Transmission du procès-verbal d'ouverture des plis à la DG-CMEF;10;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+11;Transmission à la SCT du PV d'ouverture des offres accompagné de l'offre de chaque soumissionnaire;11;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+12;Délais d'évaluation des offres par la SCT;12;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+13;Transmission du PV à la CAM par la SCT;13;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+14;Délais de convocation des membres de la CAM;14;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+15;Proposition d’aïtribution provisoire par la CAM (réunion de la CAM pour la délibération);15;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+16;Approbation des travaux de la CAM par l'autorité compétente;16;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+17;Transmission des résultats de la CAM;17;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+18;Avis sur les résultats de la CAM et publication par la DG-CMEF;18;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+19;Délais accordés aux candidats, soumissionnaires pour exercer des recours préalable.;19;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+20;Délai accordé à 1 autorité contractante pour répondre;20;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+21;Délais accordes	aux candidats soumissionnaires, pour exercer des recours devant 1' ORD;21;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+22; Délais	accordés à l’ORD pour	le traitement de la plainte et la tenue de l'audience;22;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+23;Délai accordé aux parties pour la demande de retrait de la décision de l’ORD;23;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+24; Délai accordé à l’ORD pour le réexamen du différend;24;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+25;Transmission avant publication	des résultats à la DGCOOP, le cas échéant;25;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+26; Délai pour l'obtention de l'avis de non objection du ou des partenaires;26;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+27;Transmission à la PRM de l'avis du partenaire techm que et financier par la DGCOOP;27;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+28;Préparation et transmission du projet de rapport en Conseil des Ministres pour les marchés dont le montant est égal ou supérieur au seuil requis à lasignature de l'autorité compétente;28;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+29;Signature du rapport en Conseil des ministres et transmission pour programmation pour les marchés dont le montant est égal ou supérieur au seuil requis;29;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+30;Notification de l'attribution du marché au soumissionnaire retenu;30;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+31;Elaboration du projet de contrat et sa transmission au titulaire pour signature;31;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+32;Signature et retour du projet de contrat par le titulaire du marché;32;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+33;Transmission du projet de contrat par le gestionnaire cl.e crédits à DG-CMEF;33;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+34;Visa de DG-CMEF et retour du dossier au gestionnaire de crédits;34;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+35;Transmission du projet de contrat visé par le gestionnaire de crédits à l'autorité d'approbation;35;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+36;Approbation du projet de contrat par l'autorité compétente;36;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+37;Transmission du contrat approuvé au gestionnaire de crédits;37;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+38; Notification du marché approuvé au titulaire en vue de l'enregistrement et de l'ordre de service;38;f;1;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+39;Initiation et élaboration du DAOR et de la demande de prix;1;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+40;Transmission du DAOR et de la demande d’avis à la DC-CMEF;2;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+41;Traitement de la requête et du DAOR s’il y a lieu ;3;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+42;Demande d’autorisation;4;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+43;Autorisation de l’autorité compétente ;5;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+44;Lettres d’invitation aux membres de la liste restreinte pour acheter le DAOR;6;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+45;Réception des offres par la PRM;7;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+46;Convocation des membres de la CAM;8;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+47;Désignation des membres de la sous-commission technique (SCT) sur initiative de la PRM;9;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+48;Ouverture des offres et mise en place de la SCT;10;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+49;Transmission du procès-verbal d’ouverture des plis à la DG-CMEF;11;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+50;Transmission à la SCT du PV d’ouverture des offres accompagné de l’offre de chaque soumissionnaire ;12;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+51;Evaluation des offres par la SCT et transmission du rapport d’analyse à la CAM par la SCT;13;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+52;Convocation des membres de la CAM et délibération ;14;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+53;Approbation des travaux de la CAM par l’autorité compétente ;15;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+54;Transmission des résultats de la CAM à la DG-CMEF pour avis et publication;16;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+55;Avis sur les résultats de la CAM et publication par la DG-CMEF;17;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+56;Délais accordés aux candidats/soumissionnaires pour exercer des recours préalables;18;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+57;Délai accordé à l'autorité contractante pour répondre;19;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+58;Delais accordés aux candidats/soumissionnaires pour exercer des recours devant l'ORD;20;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+59;Délais accordés à l'ORD pour le traitement de la plainte et la tenue de l’audience;21;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+60;Délai accordé aux parties pour la demande de ret-ait de la décision de l’ORD;22;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+61;Délai accordé à l’ORD pour le réexamen du différent;23;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+62;Transmission des résultats à la DGCOOP, le cas échéant;24;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+63;Délai pour l'obtention de l'avis de non objection du ou des partenaires;25;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+64;Transmission à la PRM de la réponse du partenaire technique et financier far la DGCOOP;26;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+65;Préparation et transmission du projet de rapport en Conseil des Ministres pour les marchés dont le montant est égal ou supérieur au seuil requis à la signature de l'autorité compétente;27;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+66;Signature du rapport en Conseil des ministres et transmission pour programmation pour les marchés dont le montant est égal ou supérieur au seuil requis;28;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+67;Notification de l'attribution du marché au soumissionnaire retenu;29;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+68;Elaboration du projet de contrat et sa transmission au titulaire pour signature;30;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+69; Signature et retour du projet de contrat par le titulaire du marché;31;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+70;Transmission du projet de contrat par le gestionnaire de crédits à DG-CMEF;32;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+71;Visa de DG-CMEFet retour du dossier  au gestionnaire de crédits ;33;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+72;Transmission du projet de contrat visé par le gestionnaire de crédits à l'autorité d'approbation;34;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+73;Approbation du projet de contrat par l'autorité compétente;35;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+74;Transmission du contrat approuvé au gestionnaire de (crédits);36;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+75;Notification du marché approuvé au titulaire en vue de l'enregistrement et de l'ordre de service;37;f;2;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+76;"Initiation et élaboration de la manifestation d'intérêt (MI) par la PRM
+";1;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+77; Transmission de la MI à la DG-CMEF;2;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+78;Traitement et publication de la MI par DG-CMEF;3;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+79; Réception des manifestations par la;4;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+80; Désignation des membres de la sous- commission technique (SCT) sur initiative de la PRIV., s'il y a lieu;5;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+81;Ouverture des manifestations par la CAM;6;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+82;Délais de convocation de la SCT s'il  y a lieu;7;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+83;Evaluation des manifestations par la;8;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+84; Transmission du r ipport à la CAM parla SOT s'il y a lieu;9;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+85; Délais de convocation de la CAM en vue de la délibération des résultats de la MI;10;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+86; Délibération de la CAM sur les résultats de la MI;11;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+87;Transmission à la DG-CMEF des resultats de la CAM sur les MI;12;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+88;Avis et publication des résultats de la CAM sur les MI;13;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+89;Nombre total des jours pour la manifestation d'interêt;14;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+90; Initiation et élaboration du dossier de la DP;15;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+91;Transmission du dossier de la DP à la DG-CMEF pour avis et validation;16;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+92;Traitement du dossier de la DP par DG- CMEF;17;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+93;Lettre d'invitation aux consultants;18;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+94;retenus après la MI et mise en vente du dossier de la DP;19;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+95;Réception des propositions techniques et financières des candidats retenus et convocation de la CAM;20;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+96;Convocation de la CAM et de la SCT;21;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+97; Ouverture des propositions techniques des candidats retenus;22;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+98; Transmission du procès - verbal d'ouverture des plis à la DG-CMEF;23;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+99; Evaluation des propositions techniques par la SCT;24;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+100; Transmission des travaux de la SCT à la CAM;25;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+101; Délais de convocation de la CAM;26;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+102;Délibération de la CAM sur les résultats   des travaux de la SCT;27;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+103;Transmission à la DG-CMEF des PV de la CAM;28;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+104; Avis sur les résultats et publication par la DG-CMEF;29;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+105;Délais accordés aux candidats soumissionnaires pour exercer des recours préalable;30;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+106; Délai accordé à l'autorité contractante pour répondre;31;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+107;"Délais accordés aux candidats/soumissionnaires pour exercer des recours devant l'ORD
+";32;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+108;"Délais accordés à l'ORD pour le traitement de la plainte et la tenue de l’audience candidats/soumissionnaires pour exercer des recours devant l'ORD
+
+";33;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+109;"Délai accordé a.ix parties pour la demande de retrait de la décision de l'ORD
+";34;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+110; Délai accordé à l'ORD pour le  réexamen du difféiend;35;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+111; Transmission des résultats à la;36;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+112;Délai pour l'obtention de l'avis de non objection du ou des partenaires;37;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+113;Transmission à la :PRM de la réponse du partenaire technique et financier par la DGCOOP;38;f;3;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+114; Délais de convocation de la CAM et de la SCT pour l'ouverture des propositions financières;1;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+115; Ouverture des propositions financières et leur transmission à la SCT;2;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+116; Transmission du procès - verbal  d'ouverture des plis à la DG-CMEF;3;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+117;Evaluation des offres financières;4;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+118; Délibération par la CAM;5;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+119;Approbation des travaux de la CAM par l'autorité compétente;6;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+120; Transmission à la DG-CMEF des PV de la CAM;7;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+121; Avis sur les résultats de la DP et publication par la DG-CMEF;8;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+122; Délais accordés aux candidats,;9;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+123;Délai accordé à 1 autorité contractante pour répondre;10;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+124; Délais accordés aux candidats;11;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+125;" Délais accordés à l'ORD pour lebtraitement de la plainte et la tenue de l'audience
+";12;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+126;"Délai accordé aux parties pour la demande de retrait de la décision de l'ORD
+";13;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+127;"Délai accordé à l'ORD pour le réexamen du différend
+";14;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+128; Préparation et transmission du projet de rapport en Conseil des Ministres à la signature de l'autorité compétente pour les marchés dont le montant est égal ou supérieur au seuil requis;15;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+129; Signature transmission du rapport en Conseil des Ministres au SGG-CM pour programmation pour les marchés dont le montant est éga: ou supérieur au seuil requis;16;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+130; Notification par l'AC de l'attribution du marché au soumissionnaire retenu;17;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+131; Elaboration du projet de contrat et sa Transmission au titulaire pour signature;18;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+132;signature et retour du contrat par le titulaire du marché;19;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+133; Transmission du dossier par l'autorité   contractante à DG-CMEF;20;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+134;Visa de DG-CMEF et transmission du   marché visé au gestionnaire de crédits;21;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+135;Approbation du contrat par l'autorité compétente;22;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+136;Transmission du contrat approuvé au gestionnaire de crédits;23;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+137; Notification du marché approuvé au titulaire en vue de l'enregistrement;24;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+138;Initiation et élaboration du dossier de la DPX;25;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+139;Transmission du dossier de la DPX à la DG-CMEF;26;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+140;Traitement et publication de la DPX par DG-CMEF;27;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+=======
+id;libelle;ordre;deleted;mode_passation_id;created_by;created_date;last_modified_by;last_modified_date
+1;Initiation et élaboration du DAOO ou du DAOA;1;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+2;Transmission du DAOO ou du DADA et de l'autorisation à la DG-CMEF;2;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+3;Traitement et publication du DAOO ou du DAOA par DC-CMEF;3;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+4;Réception des offres par la PRIV;4;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+5;Convocation des membres de la CAM;5;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+6;Commission de sélection;6;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+7;Désignation des membres de la sous- commission technique (SCT) sur initiative de la PRM;7;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+8;Ouverture des offres et mise en place de la SCT;8;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+9;Ouverture des offres et mise en place de la SCT;9;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+10;Transmission du procès-verbal d'ouverture des plis à la DG-CMEF;10;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+11;Transmission à la SCT du PV d'ouverture des offres accompagné de l'offre de chaque soumissionnaire;11;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+12;Délais d'évaluation des offres par la SCT;12;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+13;Transmission du PV à la CAM par la SCT;13;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+14;Délais de convocation des membres de la CAM;14;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+15;Proposition d’aïtribution provisoire par la CAM (réunion de la CAM pour la délibération);15;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+16;Approbation des travaux de la CAM par l'autorité compétente;16;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+17;Transmission des résultats de la CAM;17;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+18;Avis sur les résultats de la CAM et publication par la DG-CMEF;18;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+19;Délais accordés aux candidats, soumissionnaires pour exercer des recours préalable.;19;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+20;Délai accordé à 1 autorité contractante pour répondre;20;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+21;Délais accordes	aux candidats soumissionnaires, pour exercer des recours devant 1' ORD;21;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+22; Délais	accordés à l’ORD pour	le traitement de la plainte et la tenue de l'audience;22;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+23;Délai accordé aux parties pour la demande de retrait de la décision de l’ORD;23;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+24; Délai accordé à l’ORD pour le réexamen du différend;24;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+25;Transmission avant publication	des résultats à la DGCOOP, le cas échéant;25;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+26; Délai pour l'obtention de l'avis de non objection du ou des partenaires;26;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+27;Transmission à la PRM de l'avis du partenaire techm que et financier par la DGCOOP;27;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+28;Préparation et transmission du projet de rapport en Conseil des Ministres pour les marchés dont le montant est égal ou supérieur au seuil requis à lasignature de l'autorité compétente;28;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+29;Signature du rapport en Conseil des ministres et transmission pour programmation pour les marchés dont le montant est égal ou supérieur au seuil requis;29;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+30;Notification de l'attribution du marché au soumissionnaire retenu;30;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+31;Elaboration du projet de contrat et sa transmission au titulaire pour signature;31;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+32;Signature et retour du projet de contrat par le titulaire du marché;32;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+33;Transmission du projet de contrat par le gestionnaire cl.e crédits à DG-CMEF;33;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+34;Visa de DG-CMEF et retour du dossier au gestionnaire de crédits;34;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+35;Transmission du projet de contrat visé par le gestionnaire de crédits à l'autorité d'approbation;35;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+36;Approbation du projet de contrat par l'autorité compétente;36;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+37;Transmission du contrat approuvé au gestionnaire de crédits;37;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+38; Notification du marché approuvé au titulaire en vue de l'enregistrement et de l'ordre de service;38;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+39;Initiation et élaboration du DAOR et de la demande de prix;1;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+40;Transmission du DAOR et de la demande d’avis à la DC-CMEF;2;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+41;Traitement de la requête et du DAOR s’il y a lieu ;3;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+42;Demande d’autorisation;4;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+43;Autorisation de l’autorité compétente ;5;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+44;Lettres d’invitation aux membres de la liste restreinte pour acheter le DAOR;6;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+45;Réception des offres par la PRM;7;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+46;Convocation des membres de la CAM;8;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+47;Désignation des membres de la sous-commission technique (SCT) sur initiative de la PRM;9;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+48;Ouverture des offres et mise en place de la SCT;10;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+49;Transmission du procès-verbal d’ouverture des plis à la DG-CMEF;11;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+50;Transmission à la SCT du PV d’ouverture des offres accompagné de l’offre de chaque soumissionnaire ;12;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+51;Evaluation des offres par la SCT et transmission du rapport d’analyse à la CAM par la SCT;13;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+52;Convocation des membres de la CAM et délibération ;14;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+53;Approbation des travaux de la CAM par l’autorité compétente ;15;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+54;Transmission des résultats de la CAM à la DG-CMEF pour avis et publication;16;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+55;Avis sur les résultats de la CAM et publication par la DG-CMEF;17;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+56;Délais accordés aux candidats/soumissionnaires pour exercer des recours préalables;18;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+57;Délai accordé à l'autorité contractante pour répondre;19;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+58;Delais accordés aux candidats/soumissionnaires pour exercer des recours devant l'ORD;20;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+59;Délais accordés à l'ORD pour le traitement de la plainte et la tenue de l’audience;21;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+60;Délai accordé aux parties pour la demande de ret-ait de la décision de l’ORD;22;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+61;Délai accordé à l’ORD pour le réexamen du différent;23;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+62;Transmission des résultats à la DGCOOP, le cas échéant;24;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+63;Délai pour l'obtention de l'avis de non objection du ou des partenaires;25;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+64;Transmission à la PRM de la réponse du partenaire technique et financier far la DGCOOP;26;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+65;Préparation et transmission du projet de rapport en Conseil des Ministres pour les marchés dont le montant est égal ou supérieur au seuil requis à la signature de l'autorité compétente;27;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+66;Signature du rapport en Conseil des ministres et transmission pour programmation pour les marchés dont le montant est égal ou supérieur au seuil requis;28;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+67;Notification de l'attribution du marché au soumissionnaire retenu;29;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+68;Elaboration du projet de contrat et sa transmission au titulaire pour signature;30;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+69; Signature et retour du projet de contrat par le titulaire du marché;31;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+70;Transmission du projet de contrat par le gestionnaire de crédits à DG-CMEF;32;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+71;Visa de DG-CMEFet retour du dossier  au gestionnaire de crédits ;33;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+72;Transmission du projet de contrat visé par le gestionnaire de crédits à l'autorité d'approbation;34;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+73;Approbation du projet de contrat par l'autorité compétente;35;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+74;Transmission du contrat approuvé au gestionnaire de (crédits);36;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+75;Notification du marché approuvé au titulaire en vue de l'enregistrement et de l'ordre de service;37;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+76;"Initiation et élaboration de la manifestation d''intérêt (MI) par la PRM
+";1;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+77; Transmission de la MI à la DG-CMEF;2;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+78;Traitement et publication de la MI par DG-CMEF;3;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+79; Réception des manifestations par la;4;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+80; Désignation des membres de la sous- commission technique (SCT) sur initiative de la PRIV., s'il y a lieu;5;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+81;Ouverture des manifestations par la CAM;6;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+82;Délais de convocation de la SCT s'il  y a lieu;7;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+83;Evaluation des manifestations par la;8;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+84; Transmission du r ipport à la CAM parla SOT s'il y a lieu;9;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+85; Délais de convocation de la CAM en vue de la délibération des résultats de la MI;10;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+86; Délibération de la CAM sur les résultats de la MI;11;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+87;Transmission à la DG-CMEF des resultats de la CAM sur les MI;12;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+88;Avis et publication des résultats de la CAM sur les MI;13;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+89;Nombre total des jours pour la manifestation d'interêt;14;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+90; Initiation et élaboration du dossier de la DP;15;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+91;Transmission du dossier de la DP à la DG-CMEF pour avis et validation;16;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+92;Traitement du dossier de la DP par DG- CMEF;17;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+93;Lettre d'invitation aux consultants;18;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+94;retenus après la MI et mise en vente du dossier de la DP;19;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+95;Réception des propositions techniques et financières des candidats retenus et convocation de la CAM;20;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+96;Convocation de la CAM et de la SCT;21;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+97; Ouverture des propositions techniques des candidats retenus;22;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+98; Transmission du procès - verbal d'ouverture des plis à la DG-CMEF;23;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+99; Evaluation des propositions techniques par la SCT;24;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+100; Transmission des travaux de la SCT à la CAM;25;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+101; Délais de convocation de la CAM;26;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+102;Délibération de la CAM sur les résultats   des travaux de la SCT;27;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+103;Transmission à la DG-CMEF des PV de la CAM;28;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+104; Avis sur les résultats et publication par la DG-CMEF;29;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+105;Délais accordés aux candidats soumissionnaires pour exercer des recours préalable;30;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+106; Délai accordé à l'autorité contractante pour répondre;31;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+107;"Délais accordés aux candidats/soumissionnaires pour exercer des recours devant l''ORD
+";32;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+108;"Délais accordés à l''ORD pour le traitement de la plainte et la tenue de l’audience candidats/soumissionnaires pour exercer des recours devant l''ORD
+
+";33;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+109;"Délai accordé a.ix parties pour la demande de retrait de la décision de l''ORD
+";34;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+110; Délai accordé à l'ORD pour le  réexamen du difféiend;35;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+111; Transmission des résultats à la;36;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+112;Délai pour l'obtention de l'avis de non objection du ou des partenaires;37;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+113;Transmission à la :PRM de la réponse du partenaire technique et financier par la DGCOOP;38;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+114; Délais de convocation de la CAM et de la SCT pour l'ouverture des propositions financières;1;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+115; Ouverture des propositions financières et leur transmission à la SCT;2;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+116; Transmission du procès - verbal  d'ouverture des plis à la DG-CMEF;3;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+117;Evaluation des offres financières;4;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+118; Délibération par la CAM;5;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+119;Approbation des travaux de la CAM par l'autorité compétente;6;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+120; Transmission à la DG-CMEF des PV de la CAM;7;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+121; Avis sur les résultats de la DP et publication par la DG-CMEF;8;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+122; Délais accordés aux candidats,;9;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+123;Délai accordé à 1 autorité contractante pour répondre;10;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+124; Délais accordés aux candidats;11;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+125;" Délais accordés à l''ORD pour lebtraitement de la plainte et la tenue de l''audience
+";12;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+126;"Délai accordé aux parties pour la demande de retrait de la décision de l''ORD
+";13;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+127;"Délai accordé à l''ORD pour le réexamen du différend
+";14;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+128; Préparation et transmission du projet de rapport en Conseil des Ministres à la signature de l'autorité compétente pour les marchés dont le montant est égal ou supérieur au seuil requis;15;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+129; Signature transmission du rapport en Conseil des Ministres au SGG-CM pour programmation pour les marchés dont le montant est éga: ou supérieur au seuil requis;16;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+130; Notification par l'AC de l'attribution du marché au soumissionnaire retenu;17;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+131; Elaboration du projet de contrat et sa Transmission au titulaire pour signature;18;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+132;signature et retour du contrat par le titulaire du marché;19;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+133; Transmission du dossier par l'autorité   contractante à DG-CMEF;20;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+134;Visa de DG-CMEF et transmission du   marché visé au gestionnaire de crédits;21;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+135;Approbation du contrat par l'autorité compétente;22;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+136;Transmission du contrat approuvé au gestionnaire de crédits;23;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+137; Notification du marché approuvé au titulaire en vue de l'enregistrement;24;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+138;Initiation et élaboration du dossier de la DPX;25;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+139;Transmission du dossier de la DPX à la DG-CMEF;26;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+140;Traitement et publication de la DPX par DG-CMEF;27;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+>>>>>>> b42243749438c6fd99a8c06fbf900714b29bc433
+141;"Réception des affres par la PRM etconvocation des membres de la CAM
+";28;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+142;Ouverture et évauation des offres par la CAM;29;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+143;Approbation des travaux de la CAM par l'autorité compétente;30;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+144;Transmission des résultats à la DG-CMEF   par la PRM ;31;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+145;Avis sur les résultats et publication par la DG-CMEF ;32;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+146;"Délais accordés aux candidats, soumissionnaires pour exercer des recours préalable
+<<<<<<< HEAD
+";33;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+147;"Délai accordé à l'autorité contractantepour répondre
+";34;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+148;"Délais accordés aux candidats soumissionnaires pour exercer des recours devant l'ORD
+";35;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+149;Délais accordés a l'ORD pour rendre sa décision;36;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+150;delai accordé pour la demande de retrait de la décision de l'ORD;37;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+151;Délai accordé à 1 ORD pour le réexamen du différend;38;f;4;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+152;Transmission des résultats à la DGCOOP, le cas échéant;1;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+153;Délai pour l'obtention de l'avis de non objection du ou des partenaires;2;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+154;Transmission à la PRM de la réponse du partenaire technique et financier par la DGCOOP;3;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+155;Notification de l'attribution du marché au soumissionnaire / etenu;4;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+156;Elaboration du projet de contrat et sa transmission au titulaire;5;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+157;"signature et retour du contrat par le titulaire
+";6;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+158;Transmission du .marché pour visa à DG-CMEF;7;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+159;"Visa de DG-CMEF et transmission du
+contrat visé au gestionnaire de crédits";8;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+160;"Transmission du marché par legestionnaire de crédits à l'autorité d'approbation
+";9;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+161;"Approbation du contrat par l'autoritécompétente
+";10;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+162;"Transmission du contrat approuvé au gestionnaire de crédits*
+";11;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+163;Notification du marché approuvé au;12;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+164;Demande de propostion allege;13;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+165;Initiation et élaboration de la manifestation d'intérêt (MI) par la PRM;14;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+166;Transmission de la MI à la DG-CMEF;15;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+167;Traitement et publication de la MI par DG-CMEF;16;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+168;Réception des manifestations par la PRM ;17;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+169;Convocation des membres de la CAM et de la SCT s'il ya lieu;18;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+170;Ouverture des manifestations par la CAM;19;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+171;Transmission du procès - verbal d'ouverture des plis à la DG-CMEF;20;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+172;Evaluiation des manifestations par le SCT s'il ya lieu;21;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+173;Transmission du rapport d'analyse à la CAM par la SCT s'il ya lieu;22;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+174;Délais de convocation de la CAM en vue de la délibération des résultats de la MI;23;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+175;Délibération de la CAM sur les résultats de la MI;24;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+176;Approbation des travaux de la CAM;25;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+177;Transmission à la DG-CMEF des résultats de la CAM sur les MI;26;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+178;Avis et publication des résultats de la CAM sur les MI;27;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+179;Délais accordés aux candidats, soumissionnaires pour exercer des recours préalable;28;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+180;Délai accordé à l'autorité contractante pour répondre;29;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+181;Délais accordés aux candidats/soumissionnaires pour exercer des recours devant l'ORD;30;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+182;Délais accordés à ORD pour rendre sa décision;31;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+183;Délai accordé flux parties pour la demande de retrait de la décision de l'ORD ;32;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+184;Délai accordé à l'ORD pour réexamen du différend;33;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+185;Lettre d'invitation au consultant retenu après la MI à soumettre une offre technique et financière;34;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+186;Réception de la proposition technique et financière du candidat retenu;35;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+187;Ouverture et évaluation des propositions tech:Ttique et financière du candidat retenu ;36;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+188;Négociation avec le candidat retenu;37;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+189;Elaboration du projet de contrat et sa transmission au titulaire pour signature;38;f;5;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+190;Signature et retour du contrat par l'attributaire du marché ;1;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+191;Transmission du dossier par l'autorité contractante à la DG-CMEF ;2;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+192;Visa de la DG-CMEF et transmission du marché visé au gestionnaire de crédits;3;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+193;Approbation du contrat par l'autorité compétente ;4;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+194;Transmission du contrat approuvé au estionnaire de crédits;5;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+195;Notification du marché approuvé au titulaire en vue de l'enregistrement;6;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+196;"Initiation du dossier d'entente directe et élaboration de la requête
+";7;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+197;"Transmission du dossier d'entente directe et de la demande d'avis par PRM à la DG-CMEF
+
+";8;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+198;"Traitement de la requête d'entente directe par la DG-CMEF et transmission de l'avis à la PRM
+";9;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+199;"Initiation et transmission de la requête d'autorisation à l'autorité compétente
+";10;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+200;Réponse de l'autorité compétente à PRM;11;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+201;"Préparation d'un rapport en Conseil desministres à la signature de l'ordonnateur du budget s'il y a lieu
+";12;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+202;Signature du rapport en Conseil des ministres par l'autorité compétente et transmission dudit rapport au 50G-CM pour programmation;13;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+203;Notification de I'attribution du marché au soumissionnaire retenu;14;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+204;Préparation et élaboration du projet de contrat après avis favorable de l'autorité d'approbation;15;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+205;"Elaboration du projet de contrat et sa transmission au titulaire_pour signature
+";16;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+206;Signature et retour du contrat par le titulaire du marché;17;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+207;Transmission du marché à la DG-CMEF par le gestionnaire de crédits;18;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+208;Visa de DG-CMEF et transmission du marché visé au gestionnaire de crédits;19;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+209;"Transmission du marché visé par le gestionnaire de crédits à l'autorité  d'approbation
+";20;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+210;Réponse de l'autorité compétente à PRM;21;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+211;"Transmission du contrat approuvé au gestionnaire de crédits
+";22;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+212;Notification du marché approuvé au titulaire en vue de l'enregistrement;23;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+213;Transmission du rapport d'analyse à la CAM par la SCT;24;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+214;Convocation des membres de la CAM et délibération;25;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+215;Approbation des travaux de la CAM par l'Autorité compétente;26;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+216;Transmission des résultats de la CAM à la DG-CM EF pour avis et publication;27;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+217;Avis sur les résultats de la CAM et publication par la DG-CMEF;28;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+218;Délais accordés aux candidats/soumissionnaires pour exercer des recours préalables;29;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+219;Délai accordé à l'autorité contractante pour répondre;30;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+220;Délais accordés aux candidats/soumissionnaires pour exercer des recours devant l'ORD;31;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+221;Délais accordés à l'ORD pour le traitement de la plainte et la tenue de l’audience;32;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+222;Délai accordé aux parties pour la demande de retrait de la décision de l'ORD;33;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+223; Délai accordé à l'ORD pour le réexamen du différend;34;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+224;Transmission des résultats à la DGCOOP, le cas échéant;35;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+225;Délai pour l'obtention de l'avis de non objection du ou des partenaires;36;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+226;Transmission à la PRM de la réponse du partenaire technique et financier far la DGCOOP;37;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+227;Signature du rapport en Conseil des ministres et transmission pour programmation pour les marchés dont le montant est égal ou supérieur au seuil requis;38;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+228;Notification de l'attribution du marché au soumissionnaire retenu;39;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+229;Elaboration du projet de contrat et sa transmission au titulaire pour signature;40;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+230;Signature et retour du projet  de contrat par le titulaire du marché;41;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+231;Transmission du projet de contrat par le gestionnaire de crédits à DG-CMEF;41;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+232;Visa de DG-CMEF et retour du dossier    au gestionnaire de crédits;42;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+233;Transmission du projet de contrat visé par le gestionnaire de crédits à l'autorité d'approbation;43;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+234;Approbation du projet de contrat par l'autorité compétente;44;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+235;Transmission du contrat approuvé au gestionnaire de (crédits;45;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+236;Notification du marché approuvé au titulaire en vue de l'enregistrement et de l'ordre de service;46;f;6;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+=======
+";33;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+147;"Délai accordé à l''autorité contractantepour répondre
+";34;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+148;"Délais accordés aux candidats soumissionnaires pour exercer des recours devant l''ORD
+";35;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+149;Délais accordés a l'ORD pour rendre sa décision;36;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+150;delai accordé pour la demande de retrait de la décision de l'ORD;37;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+151;Délai accordé à 1 ORD pour le réexamen du différend;38;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+152;Transmission des résultats à la DGCOOP, le cas échéant;1;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+153;Délai pour l'obtention de l'avis de non objection du ou des partenaires;2;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+154;Transmission à la PRM de la réponse du partenaire technique et financier par la DGCOOP;3;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+155;Notification de l'attribution du marché au soumissionnaire / etenu;4;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+156;Elaboration du projet de contrat et sa transmission au titulaire;5;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+157;"signature et retour du contrat par le titulaire
+";6;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+158;Transmission du .marché pour visa à DG-CMEF;7;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+159;"Visa de DG-CMEF et transmission du 
+contrat visé au gestionnaire de crédits";8;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+160;"Transmission du marché par legestionnaire de crédits à l''autorité d''approbation
+";9;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+161;"Approbation du contrat par l''autoritécompétente
+";10;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+162;"Transmission du contrat approuvé au gestionnaire de crédits*
+";11;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+163;Notification du marché approuvé au;12;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+164;Demande de propostion allege;13;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+165;Initiation et élaboration de la manifestation d'intérêt (MI) par la PRM;14;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+166;Transmission de la MI à la DG-CMEF;15;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+167;Traitement et publication de la MI par DG-CMEF;16;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+168;Réception des manifestations par la PRM ;17;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+169;Convocation des membres de la CAM et de la SCT s'il ya lieu;18;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+170;Ouverture des manifestations par la CAM;19;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+171;Transmission du procès - verbal d'ouverture des plis à la DG-CMEF;20;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+172;Evaluiation des manifestations par le SCT s'il ya lieu;21;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+173;Transmission du rapport d'analyse à la CAM par la SCT s'il ya lieu;22;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+174;Délais de convocation de la CAM en vue de la délibération des résultats de la MI;23;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+175;Délibération de la CAM sur les résultats de la MI;24;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+176;Approbation des travaux de la CAM;25;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+177;Transmission à la DG-CMEF des résultats de la CAM sur les MI;26;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+178;Avis et publication des résultats de la CAM sur les MI;27;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+179;Délais accordés aux candidats, soumissionnaires pour exercer des recours préalable;28;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+180;Délai accordé à l'autorité contractante pour répondre;29;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+181;Délais accordés aux candidats/soumissionnaires pour exercer des recours devant l'ORD;30;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+182;Délais accordés à ORD pour rendre sa décision;31;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+183;Délai accordé flux parties pour la demande de retrait de la décision de l'ORD ;32;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+184;Délai accordé à l'ORD pour réexamen du différend;33;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+185;Lettre d'invitation au consultant retenu après la MI à soumettre une offre technique et financière;34;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+186;Réception de la proposition technique et financière du candidat retenu;35;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+187;Ouverture et évaluation des propositions tech:Ttique et financière du candidat retenu ;36;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+188;Négociation avec le candidat retenu;37;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+189;Elaboration du projet de contrat et sa transmission au titulaire pour signature;38;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+190;Signature et retour du contrat par l'attributaire du marché ;1;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+191;Transmission du dossier par l'autorité contractante à la DG-CMEF ;2;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+192;Visa de la DG-CMEF et transmission du marché visé au gestionnaire de crédits;3;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+193;Approbation du contrat par l'autorité compétente ;4;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+194;Transmission du contrat approuvé au estionnaire de crédits;5;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+195;Notification du marché approuvé au titulaire en vue de l'enregistrement;6;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+196;"Initiation du dossier d''entente directe et élaboration de la requête
+";7;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+197;"Transmission du dossier d''entente directe et de la demande d''avis par PRM à la DG-CMEF
+
+";8;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+198;"Traitement de la requête d''entente directe par la DG-CMEF et transmission de l''avis à la PRM
+";9;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+199;"Initiation et transmission de la requête d''autorisation à l''autorité compétente
+";10;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+200;Réponse de l'autorité compétente à PRM;11;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+201;"Préparation d''un rapport en Conseil desministres à la signature de l''ordonnateur du budget s''il y a lieu
+";12;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+202;Signature du rapport en Conseil des ministres par l'autorité compétente et transmission dudit rapport au 50G-CM pour programmation;13;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+203;Notification de I'attribution du marché au soumissionnaire retenu;14;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+204;Préparation et élaboration du projet de contrat après avis favorable de l'autorité d'approbation;15;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+205;"Elaboration du projet de contrat et sa transmission au titulaire_pour signature
+";16;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+206;Signature et retour du contrat par le titulaire du marché;17;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+207;Transmission du marché à la DG-CMEF par le gestionnaire de crédits;18;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+208;Visa de DG-CMEF et transmission du marché visé au gestionnaire de crédits;19;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+209;"Transmission du marché visé par le gestionnaire de crédits à l''autorité  d''approbation
+";20;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+210;Réponse de l'autorité compétente à PRM;21;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+211;"Transmission du contrat approuvé au gestionnaire de crédits
+";22;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+212;Notification du marché approuvé au titulaire en vue de l'enregistrement;23;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+213;Transmission du rapport d'analyse à la CAM par la SCT;24;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+214;Convocation des membres de la CAM et délibération;25;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+215;Approbation des travaux de la CAM par l'Autorité compétente;26;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+216;Transmission des résultats de la CAM à la DG-CM EF pour avis et publication;27;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+217;Avis sur les résultats de la CAM et publication par la DG-CMEF;28;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+218;Délais accordés aux candidats/soumissionnaires pour exercer des recours préalables;29;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+219;Délai accordé à l'autorité contractante pour répondre;30;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+220;Délais accordés aux candidats/soumissionnaires pour exercer des recours devant l'ORD;31;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+221;Délais accordés à l'ORD pour le traitement de la plainte et la tenue de l’audience;32;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+222;Délai accordé aux parties pour la demande de retrait de la décision de l'ORD;33;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+223; Délai accordé à l'ORD pour le réexamen du différend;34;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+224;Transmission des résultats à la DGCOOP, le cas échéant;35;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+225;Délai pour l'obtention de l'avis de non objection du ou des partenaires;36;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+226;Transmission à la PRM de la réponse du partenaire technique et financier far la DGCOOP;37;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+227;Signature du rapport en Conseil des ministres et transmission pour programmation pour les marchés dont le montant est égal ou supérieur au seuil requis;38;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+228;Notification de l'attribution du marché au soumissionnaire retenu;39;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+229;Elaboration du projet de contrat et sa transmission au titulaire pour signature;40;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+230;Signature et retour du projet  de contrat par le titulaire du marché;41;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+231;Transmission du projet de contrat par le gestionnaire de crédits à DG-CMEF;41;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+232;Visa de DG-CMEF et retour du dossier    au gestionnaire de crédits;42;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+233;Transmission du projet de contrat visé par le gestionnaire de crédits à l'autorité d'approbation;43;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+234;Approbation du projet de contrat par l'autorité compétente;44;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+235;Transmission du contrat approuvé au gestionnaire de (crédits;45;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+236;Notification du marché approuvé au titulaire en vue de l'enregistrement et de l'ordre de service;46;f;;admin;2020-04-24 23:33:59.612;admin;2020-04-24 23:33:59.612
+>>>>>>> b42243749438c6fd99a8c06fbf900714b29bc433

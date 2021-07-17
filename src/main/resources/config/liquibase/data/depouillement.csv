@@ -1,0 +1,4 @@
+id;description;date;heure_debut;heure_fin;lieu;salle;activite_id;deleted;invalide;created_by;created_date;last_modified_by;last_modified_date
+1251;<p>depouillement de batiment</p>;2020-09-08;16:20;17:20;ANPTIC;AB2;1301;f;f;admin;2020-09-02 14:21:07.144686;admin;2020-10-14 18:49:01.099168
+2151;<p>Depouillement 1</p>;2020-10-28;13:19;13:26;;;1303;f;f;admin;2020-10-28 13:20:54.557467;admin;2020-10-28 13:20:54.557467
+2701;<p>Construction de barrage</p>;2020-12-08;20:33;02:33;Ouaga;12;1302;f;f;admin;2020-12-02 20:33:51.19152;admin;2020-12-02 20:38:02.034639

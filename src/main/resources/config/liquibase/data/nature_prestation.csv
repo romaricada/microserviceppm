@@ -1,0 +1,21 @@
+id;code;libelle;deleted;created_by;created_date;last_modified_by;last_modified_date
+<<<<<<< HEAD
+1;1;Equipements, fournitures et services courants ou connexes;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+2;2;Prestations intellectuelles ;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+3;3;Travaux de bâtiments ;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+4;4;Travaux routiers;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+5;6;Travaux de barrages;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+6;7;Aménagement Hydro-agricole;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+7;8;Canalisation d’eau potable;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+8;9;Station de pompage, d’irrigation;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+9;10;Travaux de forage et de puits;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+10;11;Autres travaux publics;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+11;12;Concession de service publics;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+12;13;Affermage de service public;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+13;14;Régie intéressé;f;admin;2020-04-29 13:55:43.941;admin;2020-04-29 13:55:43.941
+=======
+1151;Tra;Travaux de bâtiments;f;admin;2020-09-02 12:28:14.806547;admin;2020-09-02 12:28:14.806547
+1152;Tra;Travaux de barrages;f;admin;2020-09-02 12:28:14.953508;admin;2020-09-02 12:28:14.953508
+1153;Acq;Acquisition;f;admin;2020-09-02 12:28:14.993594;admin;2020-09-02 12:28:14.993594
+1154;Can;Canalisation d’eau potable;f;admin;2020-09-02 12:28:15.013637;admin;2020-09-02 12:28:15.013637
+>>>>>>> b42243749438c6fd99a8c06fbf900714b29bc433

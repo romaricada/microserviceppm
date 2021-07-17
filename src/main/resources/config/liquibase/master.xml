@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+    <property name="now" value="now()" dbms="h2"/>
+    <property name="now" value="current_timestamp" dbms="postgresql"/>
+
+    <property name="floatType" value="float4" dbms="postgresql, h2"/>
+    <property name="floatType" value="float" dbms="mysql, oracle, mssql, mariadb"/>
+    <property name="clobType" value="longvarchar" dbms="h2"/>
+    <property name="clobType" value="clob" dbms="mysql, oracle, mssql, mariadb, postgresql"/>
+    <property name="uuidType" value="uuid" dbms="h2, postgresql"/>
+
+    <include file="config/liquibase/changelog/00000000000000_initial_schema.xml" relativeToChangelogFile="false"/>
+    <!--<include file="config/liquibase/changelog/20200424173100_added_entity_ExerciceBudgetaire.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173300_added_entity_ModePassation.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424174200_added_entity_NaturePrestation.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200526183700_added_entity_NormeReference.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173900_added_entity_Etape.xml" relativeToChangelogFile="false"/>
+
+    <include file="config/liquibase/changelog/00000000000000_initial_schema.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424172800_added_entity_LigneBudgetaire.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424172900_added_entity_Besoin.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173000_added_entity_BesoinLigneBudgetaire.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173200_added_entity_UniteAdministrative.xml" relativeToChangelogFile="false"/>
+
+    <include file="config/liquibase/changelog/20200424173400_added_entity_PPM.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173500_added_entity_Activite.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173600_added_entity_Acteur.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173700_added_entity_ReferentielDelai.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173800_added_entity_SourceFinancement.xml" relativeToChangelogFile="false"/>
+
+    <include file="config/liquibase/changelog/20200424174000_added_entity_PpmActivite.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424174100_added_entity_EtapeActivitePpm.xml" relativeToChangelogFile="false"/>
+
+    <include file="config/liquibase/changelog/20200424174300_added_entity_Timbre.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200501180400_added_entity_NaturePrestationModePassation.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200504103700_added_entity_JourFerier.xml" relativeToChangelogFile="false"/>
+
+    <include file="config/liquibase/changelog/20200527081700_added_entity_CalculDelai.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200622112800_added_entity_UserNotification.xml" relativeToChangelogFile="false"/>
+    &lt;!&ndash; jhipster-needle-liquibase-add-changelog - JHipster will add liquibase changelogs here &ndash;&gt;
+    <include file="config/liquibase/changelog/20200424172900_added_entity_constraints_Besoin.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173000_added_entity_constraints_BesoinLigneBudgetaire.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173500_added_entity_constraints_Activite.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424173700_added_entity_constraints_ReferentielDelai.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424174000_added_entity_constraints_PpmActivite.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424174100_added_entity_constraints_EtapeActivitePpm.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424174000_added_entity_constraints_NaturePrestationModePassation.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20200424172900_added_entity_constraints_JourFerier.xml" relativeToChangelogFile="false"/>
+   jhipster-needle-liquibase-add-constraints-changelog - JHipster will add liquibase constraints changelogs here -->
+</databaseChangeLog>

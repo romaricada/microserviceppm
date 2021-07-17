@@ -1,0 +1,43 @@
+{
+    "name": "EtapeActivitePpm",
+    "fields": [
+        {
+            "fieldName": "dateEtape",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "deleted",
+            "fieldType": "Boolean"
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipType": "many-to-one",
+            "otherEntityName": "etape",
+            "otherEntityRelationshipName": "etapeActivitePpms",
+            "relationshipName": "etape",
+            "otherEntityField": "id"
+        },
+        {
+            "relationshipType": "many-to-one",
+            "otherEntityName": "ppmActivite",
+            "otherEntityRelationshipName": "etapeActivitePpms",
+            "relationshipName": "ppmActivite",
+            "otherEntityField": "id"
+        }
+    ],
+    "changelogDate": "20200424174100",
+    "entityTableName": "etape_activite_ppm",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "embedded": false,
+    "clientRootFolder": "",
+    "applications": [
+        "microserviceppm"
+    ],
+    "skipClient": true
+}

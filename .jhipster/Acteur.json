@@ -1,0 +1,38 @@
+{
+    "name": "Acteur",
+    "fields": [
+        {
+            "fieldName": "libelle",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "deleted",
+            "fieldType": "Boolean"
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipType": "one-to-many",
+            "otherEntityName": "referentielDelai",
+            "otherEntityRelationshipName": "acteur",
+            "relationshipName": "referentielDelais"
+        }
+    ],
+    "changelogDate": "20200424173600",
+    "entityTableName": "acteur",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "embedded": false,
+    "clientRootFolder": "",
+    "applications": [
+        "microserviceppm"
+    ],
+    "skipClient": true
+}

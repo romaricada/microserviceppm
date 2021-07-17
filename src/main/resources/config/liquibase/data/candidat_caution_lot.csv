@@ -1,0 +1,5 @@
+id;description;institution_financiere;date_debut;montant_candidat;validation_candidat;depoullement;deleted;candidat_lot_id;caution_id;created_by;created_date;last_modified_by;last_modified_date
+1352;;BM;2020-09-03;2000000;12;t;f;1203;1101;admin;2020-09-02 14:27:08.212558;admin;2020-09-03 14:53:47.965005
+1551;;BM;2020-09-04;2000000;12;t;f;1203;1101;admin;2020-09-03 14:51:11.320546;admin;2020-10-14 18:49:09.577628
+2201;;BCEAO;2020-10-30;1233233;12;t;f;2102;1951;admin;2020-10-28 13:20:54.569236;admin;2020-10-28 13:20:54.569236
+1351;<p>TEST</p>;BM;2020-09-03;2000000;12;t;f;1204;1101;admin;2020-09-02 14:26:34.939845;admin;2020-12-02 20:22:08.839543

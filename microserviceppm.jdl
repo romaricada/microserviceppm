@@ -1,0 +1,168 @@
+application {
+  config {
+    applicationType microservice
+    authenticationType jwt
+    baseName microserviceppm
+    buildTool maven
+    cacheProvider hazelcast
+    clientPackageManager npm
+    creationTimestamp 1587749220024
+    databaseType sql
+    devDatabaseType postgresql
+    dtoSuffix DTO
+    embeddableLaunchScript false
+    enableHibernateCache true
+    enableSwaggerCodegen false
+    enableTranslation true
+    jhiPrefix jhi
+    jhipsterVersion "6.8.0"
+    jwtSecretKey "MjI2NDQ2OTU3MTFlM2NhMWQzMzZiM2JmMjI2MjM4YmYwMzExZDBmOGYxMGM2OTM5MmM2NjhmOTM5ZjQ2MGFlNTQ0ZGRiMGVkNTEzMzFkY2M4M2Q5YmRhMmExNmFhOWM5NjE4ZGNiOTE3NzI2OTBhOTQ1MGY0NDM1NjA0YjJiZDQ="
+    languages [en, fr]
+    messageBroker false
+    nativeLanguage en
+    otherModules []
+    packageName mena.gov.bf
+    prodDatabaseType postgresql
+    searchEngine false
+    serverPort 8081
+    serviceDiscoveryType eureka
+    skipClient true
+    skipUserManagement true
+    testFrameworks []
+    websocket false
+  }
+
+  entities Acteur, Activite, Besoin, BesoinLigneBudgetaire, Etape, EtapeActivitePpm, ExerciceBudgetaire, LigneBudgetaire, ModePassation, NaturePrestation, PPM, PpmActivite, ReferentielDelai, SourceFinancement, Timbre, UniteAdministrative
+}
+
+entity Acteur {
+  libelle String required,
+  deleted Boolean
+}
+entity Activite {
+  codeLignePlan String required,
+  gestionnaireCredit String,
+  deleted Boolean
+}
+entity Besoin {
+  libelle String required,
+  quantite Integer,
+  deleted Boolean
+}
+entity BesoinLigneBudgetaire {
+  deleted Boolean
+}
+entity Etape {
+  libelle String required,
+  deleted Boolean
+}
+entity EtapeActivitePpm {
+  dateEtape LocalDate,
+  deleted Boolean
+}
+entity ExerciceBudgetaire {
+  annee Integer required,
+  deleted Boolean
+}
+entity LigneBudgetaire {
+  budget String required,
+  ligneCredit String required,
+  aecp AeCp required,
+  montantEstime Double,
+  deleted Boolean
+}
+entity ModePassation {
+  libellePassation String required,
+  deleted Boolean
+}
+entity NaturePrestation {
+  code String required,
+  libelle String required,
+  deleted Boolean
+}
+entity PPM {
+  libellePpm String required,
+  referencePlan String required,
+  valid Boolean,
+  deleted Boolean
+}
+entity PpmActivite {
+  montantDepenseEngageNonLiquide Double required,
+  creditDisponible Double required,
+  periodeLancementAppel LocalDate required,
+  periodeRemiseOffre LocalDate required,
+  tempsNecessaireEvaluationOffre Integer required,
+  dateProblableDemaragePrestation LocalDate required,
+  delaiExecutionPrevu Integer required,
+  dateButtoire LocalDate required,
+  deleted Boolean
+}
+entity ReferentielDelai {
+  norme Integer,
+  referentiel Integer,
+  normeMin Integer,
+  referentielMin Integer,
+  normeMax Integer,
+  referentielMax Integer,
+  observation String,
+  normeOuvrable Boolean,
+  referentielOuvrable Boolean,
+  deleted Boolean
+}
+entity SourceFinancement {
+  code String required,
+  libelle String required,
+  codePays String required,
+  description String required,
+  type TypeRelationPartenaire required,
+  deleted Boolean
+}
+entity Timbre {
+  code String,
+  sigle String,
+  libelle String,
+  pays String,
+  devise String,
+  logo AnyBlob,
+  identiteMinistre String,
+  titreMinistre String
+}
+entity UniteAdministrative {
+  libelle String required,
+  abbreviation String required,
+  adresse String,
+  contact String,
+  identiteResponsable String,
+  deleted Boolean
+}
+enum AeCp {
+  AE,
+  CP
+}
+enum TypeRelationPartenaire {
+  BILATERAL,
+  MULTILATERAL,
+  INTERIEUR
+}
+
+relationship OneToMany {
+  ModePassation{activites} to Activite{passation},
+  NaturePrestation{activites} to Activite{naturePrestation},
+  ExerciceBudgetaire{besoins} to Besoin{exercice},
+  UniteAdministrative{besoins} to Besoin{uniteAdministrative},
+  LigneBudgetaire{besoins} to BesoinLigneBudgetaire{ligneBudget},
+  Besoin{besoinLignes} to BesoinLigneBudgetaire{besoin},
+  Activite{besoinLignes} to BesoinLigneBudgetaire{activite},
+  Etape{etapeActivitePpms} to EtapeActivitePpm{etape},
+  PpmActivite{etapeActivitePpms} to EtapeActivitePpm{ppmActivite},
+  PPM{ppmActivites} to PpmActivite{ppm},
+  Activite{ppmActivites} to PpmActivite{activite},
+  SourceFinancement{ppmActivites} to PpmActivite{sourceFinancement},
+  Etape{referentielDelais} to ReferentielDelai{etape},
+  Acteur{referentielDelais} to ReferentielDelai{acteur},
+  ModePassation{referentielDelais} to ReferentielDelai{modePassation}
+}
+
+dto Acteur, Activite, Besoin, BesoinLigneBudgetaire, Etape, EtapeActivitePpm, ExerciceBudgetaire, LigneBudgetaire, ModePassation, NaturePrestation, PPM, PpmActivite, ReferentielDelai, SourceFinancement, Timbre, UniteAdministrative with mapstruct
+paginate Acteur, Activite, Besoin, BesoinLigneBudgetaire, Etape, EtapeActivitePpm, ExerciceBudgetaire, LigneBudgetaire, ModePassation, NaturePrestation, PPM, PpmActivite, ReferentielDelai, SourceFinancement, Timbre, UniteAdministrative with pagination
+service Acteur, Activite, Besoin, BesoinLigneBudgetaire, Etape, EtapeActivitePpm, ExerciceBudgetaire, LigneBudgetaire, ModePassation, NaturePrestation, PPM, PpmActivite, ReferentielDelai, SourceFinancement, Timbre, UniteAdministrative with serviceClass

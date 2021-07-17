@@ -1,0 +1,5 @@
+id;nom;prenom;telephone;email;direction_id;deleted;created_by;created_date;last_modified_by;last_modified_date
+1803;ADA;Romarick;2345678;romaric@rf;1051;f;admin;2020-10-28 13:14:53.276313;admin;2020-10-28 13:15:30.705332
+2401;ILBOUDO;Laurent;76189178;lorent@gmail.com;1051;f;admin;2020-11-26 15:48:11.717142;admin;2020-11-26 15:48:11.717142
+1801;TRAORET;NASSER;75670988;nasser@gmail.com;1051;f;admin;2020-10-28 13:05:13.501085;admin;2020-11-26 15:48:11.731436
+1802;ILBOUDO;AZIZ;65423980;aziz@gmail.com;1051;f;admin;2020-10-28 13:05:13.50221;admin;2020-11-26 15:48:11.731869

@@ -1,0 +1,44 @@
+{
+    "name": "Etape",
+    "fields": [
+        {
+            "fieldName": "libelle",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "deleted",
+            "fieldType": "Boolean"
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipType": "one-to-many",
+            "otherEntityName": "referentielDelai",
+            "otherEntityRelationshipName": "etape",
+            "relationshipName": "referentielDelais"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "otherEntityName": "etapeActivitePpm",
+            "otherEntityRelationshipName": "etape",
+            "relationshipName": "etapeActivitePpms"
+        }
+    ],
+    "changelogDate": "20200424173900",
+    "entityTableName": "etape",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "embedded": false,
+    "clientRootFolder": "",
+    "applications": [
+        "microserviceppm"
+    ],
+    "skipClient": true
+}

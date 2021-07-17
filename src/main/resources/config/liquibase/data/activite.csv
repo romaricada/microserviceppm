@@ -1,0 +1,6 @@
+id;code_ligne_plan;nom_activite;gestionnaire_credit;etat_marche;deleted;reported;passation_id;nature_prestation_id;created_by;created_date;last_modified_by;last_modified_date
+1301;2020/1;Travaux de bâtiments;DAF/MCTIA;ATTENTE;f;f;1201;1151;admin;2020-09-02 12:28:14.82396;admin;2020-09-02 12:28:14.82396
+1302;2020/2;Travaux de barrages;DAF/MCTIA;ATTENTE;f;f;1201;1152;admin;2020-09-02 12:28:14.956096;admin;2020-09-02 12:28:14.956096
+1303;2020/5;Acquisition;DAF/MCTIA;ATTENTE;f;f;1201;1153;admin;2020-09-02 12:28:14.996055;admin;2020-09-02 12:28:14.996055
+1304;2020/3;Acquisition;DAF/MCTIA;ATTENTE;f;f;1201;1153;admin;2020-09-02 12:28:15.009051;admin;2020-09-02 12:28:15.009051
+1305;2020/4;Canalisation d’eau potable;DAF/MCTIA;ATTENTE;f;f;1201;1154;admin;2020-09-02 12:28:15.015545;admin;2020-09-02 12:28:15.015545

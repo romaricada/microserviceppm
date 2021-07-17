@@ -1,0 +1,5 @@
+id;description;date;lot_id;valide;deleted;created_by;created_date;last_modified_by;last_modified_date
+1301;<p>deliberation batiment</p>;2020-09-03;1001;t;f;admin;2020-09-02 14:25:12.488435;admin;2020-09-02 14:27:33.404589
+1501;<p>lot 2</p>;2020-09-04;1451;t;f;admin;2020-09-03 14:48:50.377078;admin;2020-09-03 14:51:27.460867
+2251;"<p><span style='"color: rgb(51, 51, 51);'">Depouillement 1</span></p>";2020-10-28;2001;f;f;admin;2020-10-28 13:21:58.373385;admin;2020-10-28 13:21:58.373385
+2751;<p>TEST</p>;2020-12-10;2501;t;f;admin;2020-12-02 20:38:42.586642;admin;2020-12-02 20:38:48.931981

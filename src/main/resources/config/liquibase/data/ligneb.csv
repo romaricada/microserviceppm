@@ -1,0 +1,6 @@
+id;created_by;created_date;last_modified_by;last_modified_date;action;activite;article;budget;chapitre;deleted;dot_cor_ae;dot_cor_cp;dot_init_ae;dot_init_cp;ecp;engage;engage_cf;ligne_credit;liquide;ordonne;paragraphe;programme;section;vbp;exercice_id;unite_administrative_id
+1351;admin;2020-09-02 12:28:14.919774;admin;2020-09-02 12:28:14.919774;5902;590209;62;Projet;1800400311;f;;;;;;;;;;;622;59;23;;1001;1051
+1352;admin;2020-09-02 12:28:14.958375;admin;2020-09-02 12:28:14.958375;5908;590801;62;Budget national;1018000311;f;;;;;;;;;;;622;59;23;;1001;1051
+1353;admin;2020-09-02 12:28:14.978257;admin;2020-09-02 12:28:14.978257;5908;590801;60;Budget national;1018000311;f;;;;;;;;;;;601;59;23;;1001;1051
+1354;admin;2020-09-02 12:28:14.98464;admin;2020-09-02 12:28:14.98464;12602;1260208;24;Budget national;1018000311;f;;;;;;;;;;;243;126;23;;1001;1051
+1355;admin;2020-09-02 12:28:14.990597;admin;2020-09-02 12:28:14.990597;12602;1260208;61;Budget national;1018000311;f;;;;;;;;;;;614;126;23;;1001;1051

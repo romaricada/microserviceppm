@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd
+                        http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
+
+
+    <!--
+        Added the entity PpmActivite.
+    -->
+    <changeSet id="20200424174000-1" author="jhipster">
+        <createTable tableName="ppm_activite">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="montant_depense_engage_non_liquide" type="double">
+                <constraints nullable="true" />
+            </column>
+            <column name="credit_disponible" type="double">
+                <constraints nullable="false" />
+            </column>
+            <column name="periode_lancement_appel" type="date">
+                <constraints nullable="false" />
+            </column>
+            <column name="periode_remise_offre" type="date">
+                <constraints nullable="false" />
+            </column>
+            <column name="temps_necessaire_evaluation_offre" type="integer">
+                <constraints nullable="false" />
+            </column>
+            <column name="date_problable_demarage_prestation" type="date">
+                <constraints nullable="false" />
+            </column>
+            <column name="delai_execution_prevu" type="integer">
+                <constraints nullable="false" />
+            </column>
+            <column name="date_buttoire" type="date">
+                <constraints nullable="false" />
+            </column>
+            <column name="niveau" type="varchar(255)">
+                <constraints nullable="true" />
+            </column>
+            <column name="deleted" type="boolean">
+                <constraints nullable="true" />
+            </column>
+            <column name="report" type="boolean">
+                <constraints nullable="true" />
+            </column>
+            <column name="ppm_id" type="bigint">
+                <constraints nullable="true" />
+            </column>
+            <column name="id_exercice" type="bigint">
+                <constraints nullable="true" />
+            </column>
+            <column name="activite_id" type="bigint">
+                <constraints nullable="true" />
+            </column>
+            <column name="source_financement_id" type="bigint">
+                <constraints nullable="true" />
+            </column>
+            <!-- jhipster-needle-liquibase-add-column - JHipster will add columns here, do not remove-->
+        </createTable>
+    </changeSet>
+
+    <changeSet id="20200424174000-1-relations" author="jhipster">
+
+    </changeSet>
+
+    <!-- Added the entity audit columns -->
+    <changeSet id="20191117200521-audit-1" author="jhipster-audit-helper">
+        <addColumn tableName="ppm_activite">
+            <column name="created_by" type="varchar(50)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="created_date" type="timestamp" defaultValueDate="${now}">
+                <constraints nullable="false"/>
+            </column>
+            <column name="last_modified_by" type="varchar(50)"/>
+            <column name="last_modified_date" type="timestamp"/>
+        </addColumn>
+    </changeSet>
+    <!-- jhipster-needle-liquibase-add-changeset - JHipster will add changesets here, do not remove-->
+
+    <!--
+        Load sample data generated with Faker.js
+        - This data can be easily edited using a CSV editor (or even MS Excel) and
+          is located in the 'src/main/resources/config/liquibase/fake-data' directory
+        - By default this data is applied when running with the JHipster 'dev' profile.
+          This can be customized by adding or removing 'faker' in the 'spring.liquibase.contexts'
+          Spring Boot configuration key.
+    -->
+   <!-- <changeSet id="20200424174000-1-data" author="jhipster" context="faker">
+        <loadData
+                  file="config/liquibase/fake-data/ppm_activite.csv"
+                  separator=";"
+                  tableName="ppm_activite">
+            <column name="id" type="numeric"/>
+            <column name="montant_depense_engage_non_liquide" type="numeric"/>
+            <column name="credit_disponible" type="numeric"/>
+            <column name="periode_lancement_appel" type="date"/>
+            <column name="periode_remise_offre" type="date"/>
+            <column name="temps_necessaire_evaluation_offre" type="numeric"/>
+            <column name="date_problable_demarage_prestation" type="date"/>
+            <column name="delai_execution_prevu" type="numeric"/>
+            <column name="date_buttoire" type="date"/>
+            <column name="deleted" type="boolean"/>
+            &lt;!&ndash; jhipster-needle-liquibase-add-loadcolumn - JHipster (and/or extensions) can add load columns here, do not remove&ndash;&gt;
+        </loadData>
+    </changeSet>-->
+
+</databaseChangeLog>

@@ -1,0 +1,13 @@
+id;code;libelle;code_pays;description;type;deleted;created_by;created_date;last_modified_by;last_modified_date
+1;0;Etat;BFA;Budget national;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+2;B3;CLUB-PARIS;FRA;Créantiers du Club de Paris;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+3;B4;BEI;BEI;Banque Européenne  d'investissements;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+4;B5;France-BF;FRA;Banque de France;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+6;B7;C-ALST-BK;AUT;CreditanltdBankversein;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+7;B8;ALGERIE-BC;DZA;Banque Centrale ALG (p/c du CVT Algérienn);BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+8;CI;COFACE;FRA;COFACE;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+9;C2;SACE;ITA;SACE;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+10;C3;CGARE;CIV;CGARE;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+11;C6;SII;ITA;Société italienne Intertrade;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+12;D1;A-K-BK;AUT;O. Kontroll Bank;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712
+13;D2;NCM-P.BAS;NLD;Nederlansche Credielverzekering Maatspprnv;BILATERAL;f;admin;2020-04-29 14:22:37.712;admin;2020-04-29 14:22:37.712

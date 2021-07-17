@@ -1,0 +1,13 @@
+id;libelle;quantite;date_debut;date_fin;deleted;nombre_lot;used;montant_estime;exercice_id;unite_administrative_id;nature_prestation_id;created_by;created_date;last_modified_by;last_modified_date;montant_inscrit;montant_restant
+1251;Travaux de bâtiments;;;;f;;;;1001;1051;1151;admin;2020-09-02 12:28:14.818633;admin;2020-09-02 12:28:14.818633;;
+1252;Travaux de barrages;;;;f;;;;1001;1051;1152;admin;2020-09-02 12:28:14.955606;admin;2020-09-02 12:28:14.955606;;
+1253;Travaux de barrages;;;;f;;;;1001;1051;1152;admin;2020-09-02 12:28:14.961258;admin;2020-09-02 12:28:14.961258;;
+1254;Travaux de barrages;;;;f;;;;1001;1051;1152;admin;2020-09-02 12:28:14.979708;admin;2020-09-02 12:28:14.979708;;
+1255;Travaux de barrages;;;;f;;;;1001;1051;1152;admin;2020-09-02 12:28:14.985792;admin;2020-09-02 12:28:14.985792;;
+1256;Acquisition;;;;f;;;;1001;1051;1153;admin;2020-09-02 12:28:14.995605;admin;2020-09-02 12:28:14.995605;;
+1257;Acquisition;;;;f;;;;1001;1051;1153;admin;2020-09-02 12:28:15.008343;admin;2020-09-02 12:28:15.008343;;
+1258;Canalisation d’eau potable;;;;f;;;;1001;1051;1154;admin;2020-09-02 12:28:15.015102;admin;2020-09-02 12:28:15.015102;;
+1259;Canalisation d’eau potable;;;;f;;;;1001;1051;1154;admin;2020-09-02 12:28:15.018434;admin;2020-09-02 12:28:15.018434;;
+1260;Canalisation d’eau potable;;;;f;;;;1001;1051;1154;admin;2020-09-02 12:28:15.020625;admin;2020-09-02 12:28:15.020625;;
+1261;Canalisation d’eau potable;;;;f;;;;1001;1051;1154;admin;2020-09-02 12:28:15.022947;admin;2020-09-02 12:28:15.022947;;
+1262;Canalisation d’eau potable;;;;f;;;;1001;1051;1154;admin;2020-09-02 12:28:15.025138;admin;2020-09-02 12:28:15.025138;;

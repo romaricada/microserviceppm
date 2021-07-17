@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd
+                        http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
+
+
+    <!--
+        Added the entity ReferentielDelai.
+    -->
+    <changeSet id="20200424173700-1" author="jhipster">
+        <createTable tableName="norme_reference">
+            <column name="id" type="bigint">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="norme" type="integer">
+                <constraints nullable="true" />
+            </column>
+            <column name="referentiel" type="integer">
+                <constraints nullable="true" />
+            </column>
+            <column name="norme_min" type="integer">
+                <constraints nullable="true" />
+            </column>
+            <column name="referentiel_min" type="integer">
+                <constraints nullable="true" />
+            </column>
+            <column name="norme_max" type="integer">
+                <constraints nullable="true" />
+            </column>
+            <column name="referentiel_max" type="integer">
+                <constraints nullable="true" />
+            </column>
+            <column name="norme_ouvrable" type="boolean">
+                <constraints nullable="true" />
+            </column>
+            <column name="referentiel_ouvrable" type="boolean">
+                <constraints nullable="true" />
+            </column>
+            <column name="intervalle" type="boolean">
+                <constraints nullable="true" />
+            </column>
+            <column name="deleted" type="boolean">
+                <constraints nullable="true" />
+            </column>
+
+            <!-- jhipster-needle-liquibase-add-column - JHipster will add columns here, do not remove-->
+        </createTable>
+    </changeSet>
+
+    <changeSet id="20200424173700-1-relations" author="jhipster">
+
+    </changeSet>
+
+    <!-- Added the entity audit columns -->
+    <changeSet id="20191117200521-audit-1" author="jhipster-audit-helper">
+        <addColumn tableName="norme_reference">
+            <column name="created_by" type="varchar(50)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="created_date" type="timestamp" defaultValueDate="${now}">
+                <constraints nullable="false"/>
+            </column>
+            <column name="last_modified_by" type="varchar(50)"/>
+            <column name="last_modified_date" type="timestamp"/>
+        </addColumn>
+    </changeSet>
+    <!-- jhipster-needle-liquibase-add-changeset - JHipster will add changesets here, do not remove-->
+
+    <!--
+        Load sample data generated with Faker.js
+        - This data can be easily edited using a CSV editor (or even MS Excel) and
+          is located in the 'src/main/resources/config/liquibase/fake-data' directory
+        - By default this data is applied when running with the JHipster 'dev' profile.
+          This can be customized by adding or removing 'faker' in the 'spring.liquibase.contexts'
+          Spring Boot configuration key.
+          -->
+
+   <changeSet id="20200424173700-1-data" author="jhipster">
+        <loadData
+                encoding="UTF-8"
+                file="config/liquibase/data/referentiel_delai/norme_reference.csv"
+                separator=";"
+                tableName="norme_reference">
+            <column name="id" type="NUMERIC"/>
+            <column name="norme" type="NUMERIC"/>
+            <column name="referentiel" type="NUMERIC"/>
+            <column name="norme_min" type="NUMERIC"/>
+            <column name="referentiel_min" type="NUMERIC"/>
+            <column name="norme_max" type="NUMERIC"/>
+            <column name="referentiel_max" type="NUMERIC"/>
+            <column name="norme_ouvrable" type="BOOLEAN"/>
+            <column name="referentiel_ouvrable" type="BOOLEAN"/>
+            <column name="intervalle" type="BOOLEAN"/>
+            <column name="deleted" type="BOOLEAN"/>
+
+            <column name="created_by" type="STRING"/>
+            <column name="created_date" type="DATE"/>
+            <column name="last_modified_by" type="STRING"/>
+            <column name="last_modified_date" type="DATE"/>
+
+        </loadData>
+    </changeSet>
+
+</databaseChangeLog>

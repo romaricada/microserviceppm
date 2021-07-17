@@ -1,0 +1,7 @@
+id;budget;ligne_credit;section;programme;action;chapitre;activite;article;paragraphe;dot_init_ae;dot_init_cp;dot_cor_ae;dot_cor_cp;engage;engage_cf;liquide;ordonne;vbp;ecp;deleted;exercice_id;created_by;created_date;last_modified_by;last_modified_date
+1351;Projet;Prg 059 Act 05902 Actv 0590209 Chap 1800400311 Art 62 Par 622;23;059;05902;1800400311;0590209;62;622;;;;;;;;;;;f;1001;admin;2020-09-02 12:28:14.919774;admin;2020-09-02 12:28:14.919774
+1352;Budget national;Prg 059 Act 05908 Actv 0590801 Chap 1018000311 Art 62 Par 622;23;059;05908;1018000311;0590801;62;622;;;;;;;;;;;f;1001;admin;2020-09-02 12:28:14.958375;admin;2020-09-02 12:28:14.958375
+1353;Budget national;Prg 059 Act 05908 Actv 0590801 Chap 1018000311 Art 60 Par 601;23;059;05908;1018000311;0590801;60;601;;;;;;;;;;;f;1001;admin;2020-09-02 12:28:14.978257;admin;2020-09-02 12:28:14.978257
+1354;Budget national;Prg 126 Act 12602 Actv 1260208 Chap 1018000311 Art 24 Par 243;23;126;12602;1018000311;1260208;24;243;;;;;;;;;;;f;1001;admin;2020-09-02 12:28:14.98464;admin;2020-09-02 12:28:14.98464
+1355;Budget national;Prg 126 Act 12602 Actv 1260208 Chap 1018000311 Art 61 Par 614;23;126;12602;1018000311;1260208;61;614;;;;;;;;;;;f;1001;admin;2020-09-02 12:28:14.990597;admin;2020-09-02 12:28:14.990597
+1501;1000000;Prg jvuyjht Act hvcg Actv dkjh Chap jug Art jhdg Par jdsh;thdyu;jvuyjht;hvcg;jug;dkjh;jhdg;jdsh;270000;4567;657;98765;;;;;;;f;1001;admin;2021-02-24 13:16:10.542508;admin;2021-02-24 13:16:10.542508

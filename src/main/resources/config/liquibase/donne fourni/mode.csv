@@ -1,0 +1,10 @@
+id;created_by;created_date;last_modified_by;last_modified_date;abreviation;delais;deleted;libelle_passation
+1201;admin;2020-09-02 12:28:14.813072;admin;2020-09-02 12:28:14.813072;DPX;9;f;Demande de prix
+1601;admin;2021-05-31 12:19:23.78003;admin;2021-05-31 12:19:23.78003;AOOD;9;f;Appel d'Offres Ouvert Direct
+1602;admin;2021-05-31 12:20:33.400516;admin;2021-05-31 12:20:33.400516;ED;10;f;Entente Directe
+1603;admin;2021-05-31 12:28:53.867546;admin;2021-05-31 12:28:53.867546;AOR;90;f;Appel d'Offres Restreint
+1604;admin;2021-05-31 12:30:09.831104;admin;2021-05-31 12:30:09.831104;DCF;30;f;Demande de Cotations formelle 
+1605;admin;2021-05-31 12:30:41.784792;admin;2021-05-31 12:30:41.784792;DCNF;30;f;Demande de Cotations non formelle 
+1606;admin;2021-05-31 12:31:38.370543;admin;2021-05-31 12:31:38.370543;CC;90;f;Consultation de Consultants
+1607;admin;2021-05-31 12:32:09.649728;admin;2021-05-31 12:32:09.649728;DPA;90;f;Demande de Propositions Allégée
+1608;admin;2021-05-31 12:33:17.503444;admin;2021-05-31 12:33:17.503444;DP;90;f;Demande de Propositions

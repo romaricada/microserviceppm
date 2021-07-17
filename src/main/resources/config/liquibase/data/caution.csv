@@ -1,0 +1,4 @@
+id;libelle;montant;validite;deleted;lot_id;type_caution_id;created_by;created_date;last_modified_by;last_modified_date;institution_bancaire
+1101;caution de construction;20000000;12;f;1001;1051;admin;2020-09-02 13:34:29.016001;admin;2021-02-25 16:34:12.092461;
+1401;caution de construction;2000000;12;f;1451;1051;admin;2020-09-03 12:52:49.047145;admin;2021-02-25 16:34:27.097225;
+1951;construction;125000;12;f;2001;1051;admin;2020-10-28 13:16:53.128388;admin;2020-10-28 13:16:55.559051;IB BANK

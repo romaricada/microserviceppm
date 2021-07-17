@@ -1,0 +1,117 @@
+id;observation;deleted;etape_id;acteur_id;mode_passation_id;norme_reference_id;created_by;created_date;last_modified_by;last_modified_date
+1;Avant le lancement prévu dans le PPM;f;1;1;1;1;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+2;Au moins 4 jours avant la date de lancement prévu dans le plan de passation des marchés;f;2;1;1;2;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+3;Délai maximum compté à partir de la réception du dossier;f;3;2;1;3;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+4;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;4;1;1;4;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+5;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;5;1;1;5;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+6;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;6;1;1;6;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+7;Au plus tard 5 jours avant les travaux d'ouverture de la CAM;f;7;1;1;7;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+8;Au plus tard 5 jours avant les travaux d'ouverture de la CAM;f;8;1;1;8;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+9;Date limite de dépôt des offres;f;9;3;1;9;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+10;Après l'ouverture des plis par la CAM;f;10;1;1;10;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+11;Immédiatement après l'ouverture des plis par la CAM;f;11;5;1;11;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+12;Immédiatement;f;12;5;1;12;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+13;Après les travaux;f;13;5;1;13;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+14;Immédiatement après réception des PV des travaux de la SCT;f;14;4;1;14;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+15;;f;15;3;1;15;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+16;;f;16;6;1;16;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+17;Après l'approbation des travaux de la CAM par l'autorité compétence;f;17;1;1;17;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+18;A compter de la réception du dossier;f;18;2;1;17;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+19;A compter du lendemain de la le parution dans la Revue des Marchés;f;19;16;1;17;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+20;A compter du lendemain de la le parution dans la Revue des Marchés;f;20;16;1;17;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+21;A compter du lendemain de la le parution dans la Revue des Marchés ou à l'expiration du délai accordé à l'autorité contractante pour répondre au candidat, soumissionnaire ou à partir de la réception d'une réponse non satisfaisante;f;21;7;1;17;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+22;A compter de la réception de la plainte;f;22;8;1;22;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+23;A compter de la date de la session de l'ORD;f;23;18;1;23;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+24;A compter de la réception de la demande de retrait;f;24;8;1;24;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+25;Par l'intermédiaire des chefs de projets;f;25;1;1;25;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+26;;f;26;10;1;26;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+27;Après réception	de l’avis du partenaire;f;27;10;1;27;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+28;Après l'expiration du délai de contestation;f;28;1;1;28;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+29;A compter de la réception du dossier;f;29;11;1;29;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+30;Après l'expiration des délais de recours;f;30;1;1;30;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+31;A compter de la date d'expiration du délai de recours;f;31;12;1;31;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+32;Après les 07 jours suivants la réception du projet de contrat;f;32;21;1;32;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+33;Après la signature;f;33;;1;33;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+34;Après réception;f;34;;1;34;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+35;Après le visa;f;35;12;1;35;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+36;A partir de la date d'approbation des contrats;f;36;13;1;36;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+37;A partir de la date d'approbation des contrats;f;37;13;1;37;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+38;A partir de la date d'approbation des contrats;f;38;12;1;38;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+39;Avant le lancement prévu dans le PPM;f;1;1;2;39;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+40;Au moins 4 jours avant la date de lancement prévu dans le plan de passation des marchés;f;2;1;2;40;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+41;Délai maximum compté à partir de la réception du dossier;f;3;2;2;41;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+42;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;4;1;2;42;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+43;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;5;1;2;43;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+44;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;6;1;2;44;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+45;Au plus tard 5 jours avant les travaux d'ouverture de la CAM;f;7;1;2;45;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+46;Au plus tard 5 jours avant les travaux d'ouverture de la CAM;f;8;1;2;46;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+47;Date limite de dépôt des offres;f;9;3;2;47;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+48;Après l'ouverture des plis par la CAM;f;10;1;2;48;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+49;Immédiatement après l'ouverture des plis par la CAM;f;11;5;2;49;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+50;Immédiatement;f;12;5;2;50;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+51;Après les travaux;f;13;5;2;51;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+52;Immédiatement après réception des PV des travaux de la SCT;f;14;4;2;52;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+53;;f;15;3;2;53;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+54;;f;16;6;2;54;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+55;Après l'approbation des travaux de la CAM par l'autorité compétence;f;17;1;2;55;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+56;A compter de la réception du dossier;f;18;2;2;56;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+57;A compter du lendemain de la le parution dans la Revue des Marchés;f;19;16;2;56;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+58;A compter du lendemain de la le parution dans la Revue des Marchés;f;20;16;2;56;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+59;A compter du lendemain de la le parution dans la Revue des Marchés ou à l'expiration du délai accordé à l'autorité contractante pour répondre au candidat, soumissionnaire ou à partir de la réception d'une réponse non satisfaisante;f;21;7;2;56;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+60;A compter de la réception de la plainte;f;22;8;2;56;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+61;A compter de la date de la session de l'ORD;f;23;18;2;61;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+62;A compter de la réception de la demande de retrait;f;24;8;2;62;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+63;Par l'intermédiaire des chefs de projets;f;25;1;2;63;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+64;;f;26;10;2;64;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+65;Après réception	de l’avis du partenaire;f;27;10;2;65;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+66;Après l'expiration du délai de contestation;f;28;1;2;66;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+67;A compter de la réception du dossier;f;29;11;2;67;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+68;Après l'expiration des délais de recours;f;30;1;2;68;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+69;A compter de la date d'expiration du délai de recours;f;31;12;2;69;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+70;Après les 07 jours suivants la réception du projet de contrat;f;32;21;2;70;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+71;Après la signature;f;33;;2;71;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+72;Après réception;f;34;;2;72;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+73;Après le visa;f;35;12;2;73;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+74;A partir de la date d'approbation des contrats;f;36;13;2;74;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+75;A partir de la date d'approbation des contrats;f;37;13;2;75;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+76;A partir de la date d'approbation des contrats;f;38;12;2;76;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+77;A partir de la date d'approbation des contrats;f;37;13;3;77;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+78;A partir de la date d'approbation des contrats;f;38;12;3;78;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+79;Avant le lancement prévu dans le PPM;f;1;1;3;79;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+80;Au moins 4 jours avant la date de lancement prévu dans le plan de passation des marchés;f;2;1;3;80;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+81;Délai maximum compté à partir de la réception du dossier;f;3;2;3;81;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+82;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;4;1;3;82;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+83;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;5;1;3;83;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+84;Délais minimums comptés à partir du lendemain de la 1 ère parution de	l'avis	dans	la Revue des marchés publics pour respectivement l’AOO national, l’AO0A et l'AOOI;f;6;1;3;84;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+85;Au plus tard 5 jours avant les travaux d'ouverture de la CAM;f;7;1;3;85;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+86;Au plus tard 5 jours avant les travaux d'ouverture de la CAM;f;8;1;3;86;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+87;Date limite de dépôt des offres;f;9;3;3;87;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+88;Après l'ouverture des plis par la CAM;f;10;1;3;88;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+89;Immédiatement après l'ouverture des plis par la CAM;f;11;5;3;89;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+90;Immédiatement;f;12;5;3;90;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+91;Après les travaux;f;13;5;3;91;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+92;Immédiatement après réception des PV des travaux de la SCT;f;14;4;3;92;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+93;;f;15;3;3;93;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+94;;f;16;6;3;94;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+95;Après l'approbation des travaux de la CAM par l'autorité compétence;f;17;1;3;95;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+96;A compter de la réception du dossier;f;18;2;3;95;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+97;A compter du lendemain de la le parution dans la Revue des Marchés;f;19;16;3;95;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+98;A compter du lendemain de la le parution dans la Revue des Marchés;f;20;16;3;95;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+99;A compter du lendemain de la le parution dans la Revue des Marchés ou à l'expiration du délai accordé à l'autorité contractante pour répondre au candidat, soumissionnaire ou à partir de la réception d'une réponse non satisfaisante;f;21;7;3;95;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+100;A compter de la réception de la plainte;f;22;8;3;100;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+101;A compter de la date de la session de l'ORD;f;23;18;3;101;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+102;A compter de la réception de la demande de retrait;f;24;8;3;102;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+103;Par l'intermédiaire des chefs de projets;f;25;1;3;103;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+104;;f;26;10;3;104;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+105;Après réception	de l’avis du partenaire;f;27;10;3;105;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+106;Après l'expiration du délai de contestation;f;28;1;3;106;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+107;A compter de la réception du dossier;f;29;11;3;107;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+108;Après l'expiration des délais de recours;f;30;1;3;108;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+109;A compter de la date d'expiration du délai de recours;f;31;12;3;109;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+110;Après les 07 jours suivants la réception du projet de contrat;f;32;21;3;110;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+111;Après la signature;f;33;;3;111;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+112;Après réception;f;34;;3;112;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+113;Après le visa;f;35;12;3;113;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+114;A partir de la date d'approbation des contrats;f;36;13;3;114;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+115;A partir de la date d'approbation des contrats;f;37;13;3;115;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604
+116;A partir de la date d'approbation des contrats;f;38;12;3;116;admin;2020-04-24 23:54:41.604;admin;2020-04-24 23:54:41.604

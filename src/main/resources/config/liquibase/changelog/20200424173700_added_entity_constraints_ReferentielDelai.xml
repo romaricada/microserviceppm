@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+    <!--
+        Added the constraints for entity ReferentielDelai.
+    -->
+    <changeSet id="20200424173700-2" author="jhipster">
+        
+        <addForeignKeyConstraint baseColumnNames="etape_id"
+                                 baseTableName="referentiel_delai"
+                                 constraintName="fk_referentiel_delai_etape_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="etape"/>
+
+        <addForeignKeyConstraint baseColumnNames="acteur_id"
+                                 baseTableName="referentiel_delai"
+                                 constraintName="fk_referentiel_delai_acteur_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="acteur"/>
+
+        <addForeignKeyConstraint baseColumnNames="mode_passation_id"
+                                 baseTableName="referentiel_delai"
+                                 constraintName="fk_referentiel_delai_mode_passation_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="mode_passation"/>
+
+    </changeSet>
+</databaseChangeLog>

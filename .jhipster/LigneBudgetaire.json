@@ -1,0 +1,57 @@
+{
+    "name": "LigneBudgetaire",
+    "fields": [
+        {
+            "fieldName": "budget",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "ligneCredit",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "aecp",
+            "fieldType": "AeCp",
+            "fieldValues": "AE,CP",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "montantEstime",
+            "fieldType": "Double"
+        },
+        {
+            "fieldName": "deleted",
+            "fieldType": "Boolean"
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipType": "one-to-many",
+            "otherEntityName": "besoinLigneBudgetaire",
+            "otherEntityRelationshipName": "ligneBudget",
+            "relationshipName": "besoins"
+        }
+    ],
+    "changelogDate": "20200424172800",
+    "entityTableName": "ligne_budgetaire",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "embedded": false,
+    "clientRootFolder": "",
+    "applications": [
+        "microserviceppm"
+    ],
+    "skipClient": true
+}

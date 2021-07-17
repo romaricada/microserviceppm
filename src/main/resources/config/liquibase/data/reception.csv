@@ -1,0 +1,2 @@
+id;nom;prenom;telephone;email;date;heure;lieu;activite_id;retirer;type_reception;deleted;created_by;created_date;last_modified_by;last_modified_date
+2551;ADA;DAO;23389900;dao@gmail.com;2020-12-03;22:30;Ouga;1302;f;NORMAL;f;admin;2020-12-02 20:30:51.646221;admin;2020-12-02 20:30:51.646221

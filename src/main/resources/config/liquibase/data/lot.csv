@@ -1,0 +1,6 @@
+id;libelle;description;activite_id;caution_id;deleted;infructueux;created_by;created_date;last_modified_by;last_modified_date
+1001;1;lot 1;1301;;f;f;admin;2020-09-02 13:33:17.55152;admin;2020-09-02 13:34:31.629995
+1451;2;lot 2;1301;;f;f;admin;2020-09-03 12:52:50.816087;admin;2020-09-03 12:52:50.816087
+2001;1;lot 1;1303;;f;f;admin;2020-10-28 13:16:55.554092;admin;2020-10-28 13:16:55.554092
+2301;3;lotk;1301;;f;f;admin;2020-11-06 12:03:04.427912;admin;2020-11-06 12:03:04.427912
+2501;4;lot 4;1302;;f;f;admin;2020-12-02 20:28:14.62708;admin;2020-12-02 20:28:14.62708

@@ -1,0 +1,5 @@
+id;libelle;description;type_tache;date_debut;date_fin;date_creation;lot_id;object_id;etat_avancement;etat;deleted;activite_id;created_by;created_date;last_modified_by;last_modified_date
+1702;resumé etape 2;<p>resumé etape 2</p>;DAC;2020-10-27;2020-11-07;2020-10-28;;;100;TERMINE;f;1301;admin;2020-10-28 13:10:10.666332;admin;2020-10-28 13:11:59.307841
+1701;resumé de tâche;<p>resumé de tâche</p>;DAC;2020-10-27;2020-11-06;2020-10-28;;;100;TERMINE;f;1301;admin;2020-10-28 13:05:13.480318;admin;2020-10-28 13:12:54.400144
+1703;resume marché en cours;<p>resume marché en cours</p>;CAM;2020-10-28;2020-11-07;2020-10-28;;;50;ENCOURS;f;1302;admin;2020-10-28 13:14:53.275369;admin;2020-10-28 13:15:30.704772
+2351;deuxieme etape;<p>Création des membres de commission</p>;CAM;2020-11-27;2020-12-05;2020-11-26;;;0;INITIAL;f;1301;admin;2020-11-26 15:48:11.691955;admin;2020-11-26 15:48:11.691955

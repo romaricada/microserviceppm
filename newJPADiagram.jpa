@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entity-mappings v="5.4.3" rws="_1616840286625108" Pws="_1616840286625108" cws="_1616840286625108" persistenceUnitName="DEFAULT_PU" sm="false" xs="false" id="_1616840286625107" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <wsl>
+        <ws n="Main" id="_1616840286625108"/>
+    </wsl>
+</entity-mappings>

@@ -1,0 +1,9 @@
+id;temps_alerte;type_message;message;deleted;created_by;created_date;last_modified_by;last_modified_date
+4751;34;DELAI;;t;admin;2021-05-31 09:04:10.148916;admin;2021-05-31 09:04:18.714257
+4752;;ALERTEDEBUT;<p>IGUYFTD</p>;t;admin;2021-05-31 09:04:40.343235;admin;2021-05-31 09:04:43.27013
+4753;34;DELAI;;t;admin;2021-05-31 09:09:15.382198;admin;2021-05-31 09:10:20.777577
+4754;45;DELAI;;t;admin;2021-05-31 09:11:35.935777;admin;2021-05-31 09:11:38.574793
+4755;;ALERTEDEBUT;<p>hgf</p>;t;admin;2021-05-31 09:11:48.282376;admin;2021-05-31 09:11:50.719169
+4756;;ALERTEDEBUT;<p>jgyhtgr</p>;t;admin;2021-05-31 09:12:30.921726;admin;2021-05-31 09:12:33.39706
+4851;2;DELAI;;f;admin;2021-05-31 14:01:27.361602;admin;2021-05-31 14:01:27.361602
+4852;;ALERTEDEBUT;<p>Attention date butoir iminent</p>;f;admin;2021-05-31 14:03:01.64619;admin;2021-05-31 14:04:12.155051

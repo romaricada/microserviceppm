@@ -1,0 +1,44 @@
+{
+    "name": "ModePassation",
+    "fields": [
+        {
+            "fieldName": "libellePassation",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "deleted",
+            "fieldType": "Boolean"
+        }
+    ],
+    "relationships": [
+        {
+            "relationshipType": "one-to-many",
+            "otherEntityName": "activite",
+            "otherEntityRelationshipName": "passation",
+            "relationshipName": "activites"
+        },
+        {
+            "relationshipType": "one-to-many",
+            "otherEntityName": "referentielDelai",
+            "otherEntityRelationshipName": "modePassation",
+            "relationshipName": "referentielDelais"
+        }
+    ],
+    "changelogDate": "20200424173300",
+    "entityTableName": "mode_passation",
+    "dto": "mapstruct",
+    "pagination": "pagination",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "embedded": false,
+    "clientRootFolder": "",
+    "applications": [
+        "microserviceppm"
+    ],
+    "skipClient": true
+}
